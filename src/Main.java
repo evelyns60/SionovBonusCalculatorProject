@@ -9,6 +9,8 @@ public class Main {
         System.out.println("Enter an expression with *, /, +, -, %, or ^ :");
         String expression = scan.nextLine();
 
+        int firstNum;
+
 
     }
 }
